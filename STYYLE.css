@@ -1,0 +1,36 @@
+<style>
+
+head{text-align:center;font-family:arial;
+    }
+	
+body{background-color:gray;
+    }
+
+h1{color:red;font-family:arial;
+   font-size:35px;text-decoration :underline;
+  }
+  
+h2{font-size:29px;color:pink;
+  font-family:arial;text-decoration :underline;
+ }
+ 
+h3{font-size:29px;color:pink;
+  font-family:arial;
+ }
+ 
+ h4{font-size:29px;color:pink;
+  font-family:arial;text-decoration :underline;
+  }
+  
+ h5{font-size:29px;color:pink;
+  font-family:arial;text-decoration :underline;
+  } 
+  
+p{color:black;
+  font-family:arial;
+  font-size:23px;
+ }
+  
+</style>
+	
+

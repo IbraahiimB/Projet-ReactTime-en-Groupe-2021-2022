@@ -1,6 +1,6 @@
 import time,random
 
-print("quand l'ecran passe au vert cliquez sur entrer")
+print("Quand le go apparaît, clique vite sur Entrée")
 time.sleep(1)
 print ('prêt ?')
 time.sleep(1)
@@ -12,9 +12,5 @@ tac = time.perf_counter()
 
 temps = tac-tic
 
-
-print(temps)
-            
-            
-    
+print(f"Votre temps est {temps} seconde")
             
